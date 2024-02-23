@@ -15,7 +15,7 @@ Visit these important repositories:
 - [Manifest](https://github.com/FireDroid-AOSP/manifest)
 - [Vendor](https://gitlab.com/firedroid-extras/vendor_aosp)
 - [Devices](https://github.com/FireDroid-Devices)
-- [Changelogs](https://github.com/FireDroid-Devices/Changelogs)
+- [Changelogs](https://github.com/FireDroid-AOSP/Changelogs)
 
  # For Apply Maintainership
 
