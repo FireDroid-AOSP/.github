@@ -1,7 +1,7 @@
 # Ignite to FireDroid #
 
 <p align="center">
-  <img src="https://i.imgur.com/IinnO2x.png"/>
+  <img src="https://i.imgur.com/9xhwQEK.png"/>
 </p>
 
 ### Based on Android Open Source Project 
